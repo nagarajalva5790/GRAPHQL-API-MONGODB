@@ -1,2 +1,2 @@
 # GRAPHQL-API-MONGODB
-This is code report APIs created using GraphQL and MongoDB databased
+GRAPHQL-API-MONGODB is a code repository containing API endpoints built using GraphQL and a MongoDB database.
