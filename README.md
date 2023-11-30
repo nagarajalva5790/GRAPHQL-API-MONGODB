@@ -21,7 +21,7 @@ To run this project locally, make sure you have Node.js and MongoDB installed.
     cd graphql-learnings
     npm install
 
-3: Prerequiste:
+3. Prerequiste:
     Replace <username> and <passowrd> with your atlas mongoDB user name and password in index.js file
     mongodb+srv://<username>:<passowrd>@cluster0.o1i63zh.mongodb.net/?retryWrites=true&w=majority
 
