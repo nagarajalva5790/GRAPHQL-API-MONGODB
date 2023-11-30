@@ -1,7 +1,8 @@
 const { ApolloServer } = require('apollo-server');
 const mongoose = require('mongoose');
 
-const MONGODB = 'mongodb+srv://nagarajalva5790:uHMCV5cpDXbL6OZA@cluster0.o1i63zh.mongodb.net/?retryWrites=true&w=majority';
+//Replace <username> and <passowrd> with atlas mongoDB user name and password
+const MONGODB = 'mongodb+srv://<username>:<passowrd>@cluster0.o1i63zh.mongodb.net/?retryWrites=true&w=majority';
 
 //Apollo setver
 //typeDefs: GraphQL Type DEfinitions
